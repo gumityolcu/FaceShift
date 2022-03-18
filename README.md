@@ -8,3 +8,5 @@ To run the project:
 3. Activate the virtual environment. Open the terminal, move to the directory of the repository ( with comment "cd <dir_path>" )
 4. Install required libraries with "pip install -r requirements.txt"
 5. Interact with FaceShift by running "python interact.py"
+
+Contact gumityolcu@gmail.com for any and all questions.
